@@ -1,0 +1,3 @@
+﻿  Proga1.cpp
+C:\Users\User\Videos\DZ\MyGit\Progect1\Proga1\Proga1\Proga1.cpp(15,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Proga1.vcxproj -> C:\Users\User\Videos\DZ\MyGit\Progect1\Proga1\Debug\Proga1.exe
